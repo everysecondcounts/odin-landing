@@ -1,2 +1,2 @@
 # odin-landing
-TOP's CSS Foundations project - landing page (non-responsive)
+TOP's CSS Foundations project - Landing page (non-responsive)
